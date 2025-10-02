@@ -13,6 +13,7 @@ function palindromeChecker(str){
   }
 }
 
+
 palindromeChecker("katak");
 palindromeChecker("blanket");
 
