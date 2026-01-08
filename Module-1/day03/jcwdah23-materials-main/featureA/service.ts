@@ -1,0 +1,1 @@
+console.log("Ini adalah service dari feature A")

@@ -1,0 +1,1 @@
+console.log("Ini adalah core dari feature A")
